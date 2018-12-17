@@ -1,0 +1,2 @@
+This file is required to write data in to, which is then analyzed, undesirable words/data it filtered out, and then passed
+as an argument to amueller's "wordcloud_cli.py" file. Located here: https://github.com/amueller/word_cloud/tree/master/wordcloud
